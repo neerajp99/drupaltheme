@@ -1,0 +1,11 @@
+name: Drupal
+type: theme 
+description: Drupal Theme
+package: Custom
+core: 8.x
+libraries:
+  - theme1/style
+regions:
+  myheader: My Header
+  home: My home
+  content: My Content
